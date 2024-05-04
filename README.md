@@ -60,13 +60,13 @@ This translation should accurately convey the instructions in English for modify
 # Step 2 Persian:
 فایل `Sms_farapayamak.php` را در مسیر `application/libraries/sms` آپلود کنید. <br><br>
 اکنون پنل مدیریتی پرفکس را باز کنید و به مسیر `تنظیمات > پیامک` بروید، در این قسمت `فراپیامک` اضافه شده. روی آن کلیک کنید و `نام کاربری` ، `رمز سامانه` و `شماره فرستنده`  که میخواهید پیامک ها با آن شماره ارسال شود را وارد کنید (مشخصات سامانه پیامکی شما)، تیک گزینه فعال را روی `بله` و دکمه `ذخیره تنظیمات` را بزنید. <br><br>
-از این ماژول لذت ببرید! <br><br>
-<b>نکته:</b> باتوجه به اجباری بودن عبارت `لغو11` در پایان پیامک‌ها، این عبارت به صورت خودکار در پایان تمام پبامک‌ها نوشته می‌شود و شما نیاز نیست عبارت `لغو11` را اضافه کنید.
-
+<b>نکته:</b> باتوجه به اجباری بودن درج عبارت `لغو11` در پایان پیامک‌ها، این عبارت به صورت خودکار در پایان تمام پبامک‌ها درج می‌شود و شما نیاز نیست عبارت `لغو11` را اضافه کنید. <br><br>
+از این ماژول لذت ببرید!
 
 # Step 2 English:
 Upload the `Sms_farapayamak.php` file to the path `application/libraries/sms`.
 
 Now, open the Perfex admin panel and navigate to `Settings > SMS`. In this section, 'Farapayamak' has been added. Click on it and enter the `username`, `password` for the SMS platform, and the `sender number` you want the SMS messages to be sent from (your SMS platform details). Check the 'Active' option to `Yes` and click the `Save Settings` button.
-<br>
+<br><br>
+<b>Note</b>: Given the mandatory inclusion of the phrase `لغو11` at the end of SMS messages, this phrase is automatically appended to the end of all messages. You do not need to add `لغو11` yourself.<br><br>
 Enjoy!
