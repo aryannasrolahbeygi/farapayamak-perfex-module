@@ -57,3 +57,13 @@ $gateways = [
 
 This translation should accurately convey the instructions in English for modifying the `sms_helper.php` file. If you need any further assistance or additional details added, feel free to ask!
 
+# Step 2 Persian:
+فایل `Sms_farapayamak.php` را در مسیر `application/libraries/sms` آپلود کنید. <br><br>
+اکنون پنل مدیریتی پرفکس را باز کنید و به مسیر `تنظیمات > پیامک` بروید، در این قسمت `فراپیامک` اضافه شده. روی آن کلیک کنید و `نام کاربری` ، `رمز سامانه` و `شماره فرستنده`  که میخواهید پیامک ها با آن شماره ارسال شود را وارد کنید (مشخصات سامانه پیامکی شما)، تیک گزینه فعال را روی `بله` و دکمه `ذخیره تنظیمات` را بزنید. <br><br>
+از این ماژول لذت ببرید!
+# Step 2 English:
+Upload the `Sms_farapayamak.php` file to the path `application/libraries/sms`.
+
+Now, open the Perfex admin panel and navigate to `Settings > SMS`. In this section, 'Farapayamak' has been added. Click on it and enter the `username`, `password` for the SMS platform, and the `sender number` you want the SMS messages to be sent from (your SMS platform details). Check the 'Active' option to `Yes` and click the `Save Settings` button.
+<br>
+Enjoy!
